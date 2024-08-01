@@ -1,6 +1,3 @@
-Sure, here's a README file for the CLI tool:
-
-
 # Traffic Analyzer CLI Tool
 
 This tool analyzes website traffic logs to identify Google bots, bad bot traffic, and human traffic. It uses various signals to differentiate between legitimate and illegitimate traffic.
