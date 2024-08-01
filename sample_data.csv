@@ -1,0 +1,9 @@
+fingerprintClientIp~fingerprintUserAgent~fingerprintAccept~apiEndpoint~apiIpAutonomousSystemOrganization~fingerprintRequestJsWebGlRend~fingerprintRequestJsWebDriver~fingerprintRequestJsHardwareConcu~fingerprintRequestUrl
+66.249.66.1~Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)~text/html~http~GOOGLE~NaN~NaN~NaN~/index.html
+192.168.1.1~curl/7.68.0~*/*~http~LOCAL~NaN~NaN~NaN~/index.html
+203.0.113.1~Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3~text/html~http~UNKNOWN~ANGLE (Intel, Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0, D3D11)~NaN~4~/index.html
+66.249.66.2~Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)~text/html~http~GOOGLE~NaN~NaN~NaN~/about.html
+198.51.100.2~python-requests/2.25.1~*/*~http~UNKNOWN~NaN~NaN~NaN~/login
+198.51.100.3~PostmanRuntime/7.26.5~*/*~http~UNKNOWN~NaN~NaN~NaN~/api/test
+198.51.100.4~Mozilla/5.0 (compatible; BadBot/1.0; +http://www.badbot.com/bot.html)~text/html~http~BADBOTNET~NaN~NaN~NaN~/contact
+203.0.113.2~Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)~text/html~http~FAKEGOOGLE~NaN~NaN~NaN~/path/../../etc/passwd
